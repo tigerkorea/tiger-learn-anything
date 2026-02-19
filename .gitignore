@@ -1,0 +1,6 @@
+learn-output/
+output/
+.env
+*.key
+.DS_Store
+Thumbs.db
